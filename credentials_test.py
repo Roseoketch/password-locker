@@ -65,8 +65,7 @@ class TestCredentials(unittest.TestCase):
         found_account = credentials.find_by_account("Account")
         self.assertEqual(found_account.user_name, test_account.user_name)
 
-    def test_account_exists(self): #sixth test
-        '''
+    def test_account_exists(self):
         test to check if account really exists
         '''
         self.new_account.save_account()
@@ -75,7 +74,7 @@ class TestCredentials(unittest.TestCase):
         account_exists = credentials.account_exists("Account")
         self.assertTrue(account_exists)
 
-    def test_display_accounts(self): #seventh test
+    def test_display_accounts(self):
         '''
         test to display accounts
         '''

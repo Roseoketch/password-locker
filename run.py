@@ -60,7 +60,7 @@ def display_accounts():
 
 
 def main():
-    print("welcome--to---Password Locker-")
+    print("<------welcome--to---Password Locker---->")
     print('''Do you ever want to easily access your passwords
 without having to memorize??
         Well here is a chance to save all your passwords in a
@@ -115,7 +115,7 @@ without having to memorize??
                   ''')
             short_code = input().lower()
             if short_code == 'c':
-                print("---------------------New account--------------------")
+                print("--------New account---------")
                 print("-"*80)
                 print("Account Name: ")
                 account_name = input()

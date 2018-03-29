@@ -81,5 +81,5 @@
 #         '''
 #         self.assertEqual(credentials.display_accounts(),credentials.credential_list)
 #
-# if __name__ == '__main__':
-#     unittest.main()
+if __name__ == '__main__':
+    unittest.main()

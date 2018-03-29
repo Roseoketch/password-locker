@@ -52,10 +52,10 @@ class TestCredentials(unittest.TestCase):
         self.new_account.save_account()
         test_account = credentials("Account","Testname","TestPass")
         test_account.save_account()
-        self.new_account.delete_account() #deleting credentials
+        self.new_account.delete_account() #
         self.assertEqual(len(credentials.credential_list),1)
 
-    def test_find_account_by_account_name(self): #fifth test
+    def test_find_account_by_account_name(self):
         '''
         test to search for account details
         '''

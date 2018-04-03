@@ -12,7 +12,7 @@ On the terminal for linux or command prompt for windows;
 
 Open the containing folder.
 
-Run ./run.py
+Run: ./run.py
 
 Follow the instructions to add details.
 

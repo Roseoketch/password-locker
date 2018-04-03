@@ -22,7 +22,7 @@ Requirements
 
 * Good internet connection
 
-For windows users; GitBash
+* For windows users; GitBash
 
 For linux/ubuntu users Git
 

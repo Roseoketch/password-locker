@@ -2,23 +2,23 @@ Password locker is an application that allows you to store your account credenti
 
 # Installation
 
-Open the github repo
+* Open the github repo
 
-Clone or download the files
+* Clone or download the files
 
-Ensure python is installed on your machine
+* Ensure python is installed on your machine
 
-On the terminal for linux or command prompt for windows;
+* On the terminal for linux or command prompt for windows;
 
-Open the containing folder.
+* Open the containing folder.
 
-Run: ./run.py
+* Run: ./run.py
 
-Follow the instructions to add details.
+* Follow the instructions to add details.
 
-Requirements
+# Requirements
 
-# Browser
+* Browser
 
 * Good internet connection
 

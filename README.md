@@ -18,7 +18,7 @@ Follow the instructions to add details.
 
 Requirements
 
-#Browser
+# Browser
 
 Good internet connection
 

@@ -27,7 +27,6 @@ Requirements
 * For linux/ubuntu users Git
 # Technologies used:
 python3.6
-
 This is mainly a python application
 
 # Email: oketchrose@gmail.com

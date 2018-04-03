@@ -20,7 +20,7 @@ Requirements
 
 # Browser
 
-Good internet connection
+* Good internet connection
 
 For windows users; GitBash
 

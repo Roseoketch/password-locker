@@ -30,8 +30,6 @@ Technologies used
 
 This is mainly a python application
 
-# Meta
-
 # Email: oketchrose@gmail.com
 
 # License

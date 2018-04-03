@@ -24,7 +24,7 @@ Requirements
 
 * For windows users; GitBash
 
-For linux/ubuntu users Git
+* For linux/ubuntu users Git
 
 Technologies used:
 python3.6
